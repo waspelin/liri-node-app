@@ -13,7 +13,5 @@ exports.twitterKeys = {
 
 
 
-exports.omdbKeys = {
-  key = '40e9cece',
-}
+
 
