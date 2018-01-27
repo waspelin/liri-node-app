@@ -1,0 +1,10 @@
+User Command: C:\Program Files\nodejs\node.exe,C:\Users\aspel\Bootcamp\liri-node-app\liri.js
+
+LIRI Response:
+
+Usage:
+    node liri.js my-tweets
+    node liri.js spotify-this-song "<song_name>"
+    node liri.js movie-this "<movie_name>"
+    node liri.js do-what-it-says
+

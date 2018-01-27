@@ -7,13 +7,17 @@ exports.twitterKeys = {
   access_token_secret: 'lmcTBOPi1unz37tGyMkZHCJS04mRCQxQfCI5iVOtMy5wl',
 }
 
-
-
-
-
-
-
-exports.omdbKeys = {
-  key = '40e9cece',
+exports.spotifyKeys = {
+  consumer_key: process.env.SPOTIFY_CONSUMER_KEY,
+  consumer_secret: '5b777c494d914b40a9ab6c14e05d9916',
 }
+
+
+
+
+
+
+// exports.omdbKeys = {
+//   key = '40e9cece',
+// }
 
